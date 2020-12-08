@@ -19,6 +19,7 @@ description: "Hompage of Nuclear Physicist Kirby Hermansen"
 url: "https://kirbyherm.github.io" # the base hostname & protocol for your site
 twitter_username: kirbyherm 
 github_username:  kirbyherm 
+linkedin_username: kirbyhermansen
 
 # Build settings
 markdown: kramdown
