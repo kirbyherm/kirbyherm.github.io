@@ -10,8 +10,11 @@ permalink: /Research/
 
 <h1 class="page-heading"><b><u>SECAR Optimization</u></b></h1>
 
-<video src="/assets/images/10x10.mp4" alt="Sample optimization of focal plane resolutions" style="float:left;width:60%;height:60%;padding:1%" type="video/mp4" autoplay muted >
-<p>
+<video width="320" height="240" autoplay muted>
+  <source src="/assets/images/10x10.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<!--<video src="/assets/images/10x10.mp4" alt="Sample optimization of focal plane resolutions" style="float:left;width:60%;height:60%;padding:1%" type="video/mp4" autoplay muted >-->
 
 <i>Video showing the evolution of an optimization on the SECAR </i>
 <br>
@@ -24,7 +27,6 @@ In an upcoming paper, we sought to find a method to optimize the magnet settings
 
 <img src="/assets/images/charged_particle_reacs.png" "img-fluid" alt="Responsive image" style="float:left;width:32%;height:32%;padding:0%" >
 <img src="/assets/images/n_particle_reacs.png" "img-fluid" alt="Responsive image" style="float:left;width:32%;height:32%;padding:0%" >
-<p>
 <br clear="all" />
 
 <i>Table showing the strongest reaction rate sensitivities among gamma-ray emitters</I>
