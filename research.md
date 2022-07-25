@@ -16,20 +16,20 @@ Your browser does not support the video tag.
 </video>
 <!--<video src="/assets/images/10x10.mp4" alt="Sample optimization of focal plane resolutions" style="float:left;width:60%;height:60%;padding:1%" type="video/mp4" autoplay muted >-->
 
-<i>Video showing the evolution of an optimization on the SECAR </i>
+<i>Video showing the evolution of a sample optimization of two parameters on the SECAR recoil separator </i>
 <br>
 <br>
-In an upcoming paper, we sought to find a method to optimize the magnet settings of the SECAR recoil separator in order to produce the best separation between the recoil beam and the unreacted beam, while minimizing the beam size throughout the separator.
+In an upcoming paper, we sought to find a method to optimize the magnet settings of the SECAR recoil separator in order to produce the best separation between the recoil beam and the unreacted beam, while minimizing the beam size throughout the separator. The above video shows a sample of how the optimizer will seek magnet settings which improve (in this case, lower is better) the focal plane resolutions.
 
 <br clear="all" />
 
 <h1 class="page-heading"><b><u>Reaction Rate Sensitivity in Core-Collapse Supernova Explosions</u></b></h1>
 
-<img src="/assets/images/charged_particle_reacs.png" "img-fluid" alt="Responsive image" style="float:left;width:32%;height:32%;padding:0%" >
-<img src="/assets/images/n_particle_reacs.png" "img-fluid" alt="Responsive image" style="float:left;width:32%;height:32%;padding:0%" >
+<img src="/assets/images/charged_particle_reacs.png" "img-fluid" alt="charged particle reaction rates" style="float:left;width:32%;height:32%;padding:0%" >
+<img src="/assets/images/n_particle_reacs.png" "img-fluid" alt="neutron reaction rates" style="float:left;width:32%;height:32%;padding:0%" >
 <br clear="all" />
 
-<i>Table showing the strongest reaction rate sensitivities among gamma-ray emitters</I>
+<i>Plots showing the strongest reaction rate sensitivities among gamma-ray emitters for both charged particle (left) and neutron induced (right) reactions</I>
 <br>
 <br>
 In <a href="https://iopscience.iop.org/article/10.3847/1538-4357/abafb5"> Hermansen et al. (2020)</a>, we looked at the most important reaction rates involved in the production of gamma-ray emitting isotopesin core-collapse supernovae. 
