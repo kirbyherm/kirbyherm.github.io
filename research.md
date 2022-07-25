@@ -1,6 +1,6 @@
 layout: page
-title: Research
-permalink: /Research/
+title: research
+permalink: /research/
 
 <div class="home">
 
