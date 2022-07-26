@@ -21,6 +21,15 @@ twitter_username: kirbyherm
 github_username:  kirbyherm 
 linkedin_username: kirbyhermansen
 
+header_pages:
+  - research.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -28,14 +37,6 @@ theme: minima
 minima:
   skin: solarized
 
-header_pages:
-  - research.md
-
 sass:
     sass_dir: _sass
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
