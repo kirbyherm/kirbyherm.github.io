@@ -16,12 +16,13 @@
 title: Kirby Hermansen 
 author: Kirby Hermansen
 
-navbar-links:
+header_pages:
   Research: "https://kirbyherm.github.io/research"
   Home: "https://kirbyherm.github.io/" 
 
 
 avatar: "/assets/images/picrew-avatar.png"
+round-avatar: true
 
 email: hermanse@nscl.msu.edu
 description: "Homepage of Nuclear Physicist Kirby Hermansen"
@@ -34,14 +35,13 @@ linkedin_username: kirbyhermansen
 markdown: kramdown
 theme: minima
 
-minima:
-  skin: solarized
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "page"
 
 sass:
     sass_dir: _sass
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
