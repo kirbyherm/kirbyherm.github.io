@@ -33,3 +33,9 @@ header_pages:
 
 sass:
     sass_dir: _sass
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
