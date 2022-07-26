@@ -25,6 +25,11 @@ linkedin_username: kirbyhermansen
 markdown: kramdown
 theme: minima
 
+minima:
+  skin: solarized
+
+header_pages:
+  - research.md
 
 sass:
     sass_dir: _sass
