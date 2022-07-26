@@ -21,7 +21,7 @@ header_pages:
   - research.html
 
 
-logo: "/assets/images/picrew-avatar.png"
+logo: "https://kirbyherm.github.io/assets/images/picrew-avatar.png"
 
 email: hermanse@nscl.msu.edu
 description: "Nuclear Physicist Kirby Hermansen"
