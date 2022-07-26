@@ -27,7 +27,7 @@ twitter_username: kirbyherm
 github_username:  kirbyherm 
 linkedin_username: kirbyhermansen
 
-favicon: "/assets/images/favicon/favicon.ico"
+favicon: "https://kirbyherm.github.io/assets/images/favicon/favicon.ico"
 
 #params:
 #  faviconTags: | # just copy paste all the tags here (Hugo templating supported). Also, ensure that you have "purpose": "maskable" set for one icon in your site.webmanifest file (helps for pwa). Use https://realfavicongenerator.net, it's great
