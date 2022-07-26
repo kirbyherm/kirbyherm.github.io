@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kirby Hermansen 
+author: Kirby Hermansen
+
+navbar-links:
+  Research: "https://kirbyherm.github.io/research"
+  Home: "https://kirbyherm.github.io/" 
+
+
+avatar: "/assets/images/picrew-avatar.png"
+
 email: hermanse@nscl.msu.edu
 description: "Homepage of Nuclear Physicist Kirby Hermansen"
 url: "https://kirbyherm.github.io" # the base hostname & protocol for your site
 twitter_username: kirbyherm 
 github_username:  kirbyherm 
 linkedin_username: kirbyhermansen
-
-header_pages:
-  - research.md
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-
 
 # Build settings
 markdown: kramdown
@@ -40,3 +40,8 @@ minima:
 sass:
     sass_dir: _sass
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
