@@ -21,11 +21,11 @@ header_pages:
   - research.html
 
 
-avatar: "assets/images/picrew-avatar.png"
+avatar: "https://kirbyherm.github.io/assets/images/picrew-avatar.png"
 round-avatar: true
 
 email: hermanse@nscl.msu.edu
-description: "Homepage of Nuclear Physicist Kirby Hermansen"
+description: "Nuclear Physicist Kirby Hermansen"
 url: "https://kirbyherm.github.io" # the base hostname & protocol for your site
 twitter_username: kirbyherm 
 github_username:  kirbyherm 
