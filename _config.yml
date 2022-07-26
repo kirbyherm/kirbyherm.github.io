@@ -17,8 +17,8 @@ title: Kirby Hermansen
 author: Kirby Hermansen
 
 header_pages:
-  Research: "https://kirbyherm.github.io/research"
-  Home: "https://kirbyherm.github.io/" 
+  - research.html
+  - index.html
 
 
 avatar: "/assets/images/picrew-avatar.png"
