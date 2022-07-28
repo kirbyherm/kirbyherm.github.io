@@ -20,8 +20,8 @@ header_pages:
   - index.html
   - research.html
 
-email: hermanse@nscl.msu.edu
-description: "Nuclear Physicist Kirby Hermansen"
+email: khermansen@proton.me
+description: "A work in progress home page. Please feel free to contact me with any questions."
 url: "https://kirbyherm.github.io" # the base hostname & protocol for your site
 twitter_username: kirbyherm 
 github_username:  kirbyherm 
