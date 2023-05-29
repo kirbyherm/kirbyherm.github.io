@@ -1,4 +1,4 @@
-               |  Name                 |  Date        |  Team       |  predict_hit  |  predict_hit_proba   |  hitbool  |  Last7Days_AVG  |  Last15Days_AVG  |  Last30Days_AVG
+DateID         |  Name                 |  Date        |  Team       |  predicthit  |  predicthitproba   |  hitbool  |  Last7DaysAVG  |  Last15DaysAVG  |  Last30DaysAVG
 ---------------|-----------------------|--------------|-------------|---------------|----------------------|-----------|-----------------|------------------|----------------
 2023052936040  |  Lourdes Gurriel Jr.  |  2023-05-29  |  D-backs    |  1.0          |  0.6166345000723322  |  False    |  0.4            |  0.327           |  0.357
 2023052933594  |  Elias Diaz           |  2023-05-29  |  Rockies    |  2.0          |  0.6111939199446355  |  False    |  0.375          |  0.349           |  0.35
