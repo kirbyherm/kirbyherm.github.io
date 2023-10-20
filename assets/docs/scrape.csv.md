@@ -1,5 +1,6 @@
 DateID         |  Name              |  Date        |  Team     |  predicthit  |  predicthitproba     |  hitbool  |  Last7DaysAVG  |  Last15DaysAVG  |  Last30DaysAVG
 ---------------|--------------------|--------------|-----------|--------------|----------------------|-----------|----------------|-----------------|---------------
+2023102032168  |  Austin Hedges     |  2023-10-20  |  Rangers  |  1.0         |  0.5986277043134816  |  False    |  0.0           |  0.0            |  0.0
 2023101942884  |  Josh Smith        |  2023-10-19  |  Rangers  |  1.0         |  0.5981638448865624  |  False    |  0.0           |  0.0            |  0.0
 2023101932168  |  Austin Hedges     |  2023-10-19  |  Rangers  |  2.0         |  0.5963974814348529  |  False    |  0.0           |  0.0            |  0.0
 2023101832751  |  Travis Jankowski  |  2023-10-18  |  Rangers  |  1.0         |  0.5996875350532187  |  False    |  0.0           |  0.0            |  0.0
@@ -8,4 +9,3 @@ DateID         |  Name              |  Date        |  Team     |  predicthit  | 
 2023101632751  |  Travis Jankowski  |  2023-10-16  |  Rangers  |  1.0         |  0.6011723951285257  |  False    |  0.0           |  0.0            |  0.0
 2023101642884  |  Josh Smith        |  2023-10-16  |  Rangers  |  2.0         |  0.5978581426284812  |  False    |  0.0           |  0.0            |  0.0
 2023101632168  |  Austin Hedges     |  2023-10-16  |  Rangers  |  3.0         |  0.5977377997071377  |  False    |  0.0           |  0.0            |  0.0
-2023101532751  |  Travis Jankowski  |  2023-10-15  |  Rangers  |  1.0         |  0.6026741287957645  |  False    |  0.0           |  0.0            |  0.0
